@@ -4,7 +4,7 @@ A plain, step-by-step guide to your first entry on [make.fun](https://make.fun) 
 
 *This guide was built for [make.fun's "Bring the humans again" bounty](https://make.fun/bounty/bring-the-humans-02) ($1,000 USDC, 10 winners). The more humans actually start, the better this entry is.*
 
-![make.fun account signup](screenshot.png)
+![The bring-the-humans-02 guide repository on GitHub](screenshot.png)
 
 ---
 
